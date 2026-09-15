@@ -1,0 +1,21 @@
+{
+  "name": "test-transformation",
+  "version": "1.0.0",
+  "description": "To test Transformation",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No hay infraestructura de tests en el repo\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://localhost:26831/Carlosbil/test-transformation"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "swagger-ui-express": "^5.0.1"
+  }
+}
